@@ -1,5 +1,4 @@
-[![My Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-elsaid-AEA&repo=Ahmed-Elsaid&show_owner=true)](https://github.com/Ahmed-elsaid-AEA/Ahmed-Elsaid/blob/main/README.md)
-<h1 align="center">Hi 👋, I'm Ahmed El-said</h1>
+ <h1 align="center">Hi 👋, I'm Ahmed El-said</h1>
 <h3 align="center">Mobile app Developer , Flutter Instructor</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-elsaid-aea&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-elsaid-aea" /> </p>
